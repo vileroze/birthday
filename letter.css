@@ -1,0 +1,9 @@
+.letter-container {
+    border: 10px solid #ff69b4; /* Pink border */
+    padding: 20px;
+    margin: 20px;
+    background-color: #fff;
+    border-radius: 10px;
+    text-align: center;
+    font-size: 18px;
+}
